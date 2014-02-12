@@ -1,10 +1,10 @@
 {
-  "name": "voxel-voila",
-  "description": "show name of block highlighted at cursor (voxel.js plugin)",
+  "name": "voxel-display-blockdata",
+  "description": "show blockdata for block highlighted at cursor (voxel.js plugin)",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:deathcap/voxel-voila.git"
+    "url": "git@github.com:jroes/voxel-display-blockdata.git"
   },
   "keywords": [
     "voxel"
